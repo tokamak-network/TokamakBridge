@@ -24,7 +24,7 @@ All repositories related to development for Tokamak Bridge is provided here. Ple
 | Swap & Uniswap Pool | Contract | [swap-router-contracts](https://github.com/Uniswap/swap-router-contracts) | ✔️ Completed |
 | Titan Sunset | Backend | [Legacy Titan pending withdrawal fetcher](https://github.com/tokamak-network/legacy-titan-pending-tx-fetcher) | ✔️ Completed |
 | Titan Sunset | Contract & Backend | [L2-Assets-Migration](https://github.com/tokamak-network/L2-Assets-Migration) | ✔️ Completed |
-| Tokamak Bridge | User guide | [tokamak-bridge-user-guide](https://github.com/tokamak-network/tokamak-bridge-user-guide) | ⏳ Ongoing |
+| Tokamak Bridge | User guide | [tokamak-bridge-user-guide](https://github.com/tokamak-network/tokamak-bridge-user-guide) | ✔️ Completed |
 | Wrap & Unrwap | Frontend | [tokamak-network-unwrapper](https://github.com/tokamak-network/tokamak-network-unwrapper) | ✔️ Completed |
 
 # Local hosting
