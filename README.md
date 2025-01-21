@@ -16,7 +16,7 @@ All repositories related to development for Tokamak Bridge is provided here. Ple
 | Swap & Uniswap Pool | Backend | [smart-order-router](https://github.com/Uniswap/smart-order-router) | ✔️ Completed |
 | Swap & Uniswap Pool | Backend | [routing-api (Titan)](https://github.com/tokamak-network/tokamak-routing-api) | ✔️ Completed |
 | Swap & Uniswap Pool | Backend | [routing-api (Original)](https://github.com/Uniswap/routing-api) | ✔️ Completed |
-| Swap & Uniswap Pool | CLI Script | [tokamak-deploy-uniswapV3-CLI](https://github.com/tokamak-network/tokamak-deploy-uniswapV3-CLI/tree/main/src/steps) | ✔️ Completed |
+| Swap & Uniswap Pool | CLI Script | [tokamak-deploy-uniswapV3-CLI](https://github.com/tokamak-network/tokamak-deploy-uniswapV3-CLI/tree/main) | ✔️ Completed |
 | Swap & Uniswap Pool | Contract | [v3-core](https://github.com/Uniswap/v3-core) | ✔️ Completed |
 | Swap & Uniswap Pool | Contract | [v3-periphery](https://github.com/Uniswap/v3-periphery) | ✔️ Completed |
 | Swap & Uniswap Pool | Contract | [universal-router](https://github.com/Uniswap/universal-router) | ✔️ Completed |
